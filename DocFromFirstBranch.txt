@@ -1,5 +1,3 @@
 Hello
-from second branch
-+2
-added into first
-+1
+third
+result
